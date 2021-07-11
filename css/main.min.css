@@ -608,6 +608,9 @@ body {
     .header-info__phone {
         font-size: 14px
     }
+    .header-info__icon{
+        display: none;
+    }
 
     .about-title {
         font-size: 15px
