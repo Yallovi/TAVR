@@ -9,7 +9,7 @@ body {
 }
 
 .main {
-    background: url(../img/mainBg.jpg) center/cover no-repeat fixed;
+    background: url(../img/main-bg.jpg) center/cover no-repeat fixed;
     min-height: 820px;
     color: #fff
 }
