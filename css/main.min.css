@@ -9,7 +9,7 @@ body {
 }
 
 .main {
-    background: url(../img/mainBg.jpg)center/cover no-repeat fixed;
+    background: url(../img/mainBg.jpg) center/cover no-repeat fixed;
     min-height: 820px;
     color: #fff
 }
@@ -579,6 +579,11 @@ body {
     .contacts-block {
         display: none
     }
+    .about .card:hover {
+        color: #fff;
+        background: #d4aa16;
+        transform: scale(1.0)
+    }
 }
 
 @media (max-width:768px) {
@@ -587,7 +592,7 @@ body {
     }
 
     .main-title {
-        font-size: 40px
+        font-size: 30px
     }
 
     .main-text {
@@ -605,7 +610,9 @@ body {
     .about-info {
         text-align: center
     }
-
+    .about-info__text {
+        text-align: right
+    }
     .contacts-block {
         display: none
     }
