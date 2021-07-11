@@ -561,7 +561,6 @@ body {
 
 @media (max-width:992px) {
     .main {
-        background: url(../img/mainBg.jpg) center/cover no-repeat fixed;
         width: 100%;
         height: auto;
         color: #fff
