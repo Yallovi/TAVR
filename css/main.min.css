@@ -593,9 +593,8 @@ body {
 
 @media (max-width:768px) {
     .main {
-        /* background: url(../img/bg.jpg) center/cover no-repeat fixed; */
-        height: 100%;
-        width: 100%;
+        background: url(../img/bg.jpg) center no-repeat fixed;
+       
     }
     .main-info {
         text-align: center
